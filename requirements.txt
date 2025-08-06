@@ -1,0 +1,17 @@
+torch
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+pandas
+jupyter
+scikit-learn
+rouge-score
+streamlit
+fastapi
+uvicorn
+bitsandbytes
+peft
+accelerate
+numpy
+tqdm
